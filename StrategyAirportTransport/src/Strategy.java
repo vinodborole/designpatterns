@@ -1,4 +1,0 @@
-
-interface Strategy {
-	void useTransport();
-}
